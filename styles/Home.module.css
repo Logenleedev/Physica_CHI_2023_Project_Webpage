@@ -1,5 +1,30 @@
+@media (min-width: 1200px){
 .container {
-  padding: 4rem 5rem;
+  width: 1170px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}}
+
+@media (min-width: 992px){
+.container {
+  width: 970px;
+}
+}
+
+@media (min-width: 992px){
+  .container {
+    width: 750px;
+  }
+}
+
+.authors {
+  font-size: 18px;
+  color: #A7A9AC;
+  word-wrap: wrap;
+  overflow: inherit;
+  text-align: center;
 }
 
 .main {

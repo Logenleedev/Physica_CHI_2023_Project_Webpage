@@ -1,6 +1,6 @@
 import React from "react"
-import styles from "../../styles/test.module.css"
-import data from "../../pub_config,js"
+import styles from "../../styles/Title.module.css"
+import data from "../../pub_config.js"
 
 export default function Title() {
     return (
